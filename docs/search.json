@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Geochronicles of Steppe and Tundra!",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "🎉 Welcome to Geochronicles of Steppe and Tundra! 🎉\nHi there! I’m Evgeny Noi, and you’ve just stumbled upon a corner of the web where geography, data, and a bit of adventure come together. 🌍📊\nIn this blog, I dive into the fascinating world of spatial and spatio-temporal data, exploring everything from the hidden patterns in maps to the latest methods in geospatial analysis. Whether you’re a seasoned data enthusiast or just curious, grab a seat (or a kettlebell 💪), and let’s uncover the mysteries of the earth together!\nCurrently, I’m at the Institute of Behavioral Science at CU Boulder 🏔️, where I develop cutting-edge nation-wide and global population forecasting models. Before moving to Colorado, I earned my Ph.D. from the Geography Department at UC Santa Barbara 🌊.\nWhen I’m not crunching numbers, you’ll find me playing guitar 🎸, swinging kettlebells, or exploring the breathtaking trails of the Rocky Mountains. 🏞️"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\nplot(cars)\nplot(pressure)\n\n\n\n\n\n\nSpeed and Stopping Distances of Cars\n\n\n\n\n\n\n\nVapor Pressure of Mercury as a Function of Temperature"
+  }
+]

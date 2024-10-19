@@ -1,0 +1,28 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/evgenynoi
+    - icon: github
+      text: Github
+      href: https://github.com/barguzin
+
+---
+
+🎉 *Welcome to Geochronicles of Steppe and Tundra!* 🎉
+
+
+Hi there! I’m Evgeny Noi, and you’ve just stumbled upon a corner of the web where geography, data, and a bit of adventure come together. 🌍📊
+
+In this blog, I dive into the fascinating world of spatial and spatio-temporal data, exploring everything from the hidden patterns in maps to the latest methods in geospatial analysis. Whether you're a seasoned data enthusiast or just curious, grab a seat (or a kettlebell 💪), and let’s uncover the mysteries of the earth together!
+
+Currently, I’m at the Institute of Behavioral Science at CU Boulder 🏔️, where I develop cutting-edge nation-wide and global population forecasting models. Before moving to Colorado, I earned my Ph.D. from the Geography Department at UC Santa Barbara 🌊.
+
+When I’m not crunching numbers, you’ll find me playing guitar 🎸, swinging kettlebells, or exploring the breathtaking trails of the Rocky Mountains. 🏞️
+
+## Education 
+

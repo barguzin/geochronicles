@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Geochronicles of Steppe and Tundra!"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/barguzin
+      - icon: linkedin
+        href: https://www.linkedin.com/in/evgenynoi
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
